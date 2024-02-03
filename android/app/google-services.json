@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684713161393",
+    "project_id": "note-app-test-58047",
+    "storage_bucket": "note-app-test-58047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684713161393:android:74e64f142b098e791aa890",
+        "android_client_info": {
+          "package_name": "com.amos.note_app_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXy1SbdLQS0ffttFpXW_F-sBAK1L67Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
